@@ -1,8 +1,3 @@
-# React + Vite
+# ChairThreejs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![ChairThreejs - Google Chrome 7_23_2024 8_28_48 PM](https://github.com/user-attachments/assets/9fb13831-5d01-432f-b0c1-cb9ea274186c)
