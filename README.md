@@ -1,3 +1,5 @@
 # ChairThreejs
 
-![ChairThreejs - Google Chrome 7_23_2024 8_28_48 PM](https://github.com/user-attachments/assets/9fb13831-5d01-432f-b0c1-cb9ea274186c)
+Live Demo: https://chair3js.vercel.app/
+
+![ChairThreejs - Google Chrome 9_2_2024 8_13_14 PM](https://github.com/user-attachments/assets/a932f539-3e21-4a71-b046-76dbac9df3ee)
