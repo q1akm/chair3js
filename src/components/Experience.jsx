@@ -9,7 +9,7 @@ const Experience = () => {
   return (
     <>
       <PresentationControls
-        speed={1.5}
+        speed={2}
         global
         polar={[-0.1, Math.PI / 4]}
         rotation={[Math.PI / 8, Math.PI / 4, 0]}

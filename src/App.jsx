@@ -9,8 +9,8 @@ function App() {
     <CustomizationProvider>
       <div className="App">
         <Canvas dpr={[1, 2]}>
-          <color attach="background" args={["#213547"]} />
-          <fog attach="fog" args={["#213547", 10, 20]} />
+          <color attach="background" args={["#000000"]} />
+          <fog attach="fog" args={["#000000", 10, 20]} />
           <Experience />
         </Canvas>
         <Configurator />

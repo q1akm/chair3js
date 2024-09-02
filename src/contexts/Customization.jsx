@@ -37,8 +37,8 @@ const chairColors = [
 
 const cushionColors = [
   {
-    color: "#683434",
-    name: "brown",
+    color: "#000000",
+    name: "black",
   },
   {
     color: "#1a5e1a",
@@ -61,8 +61,8 @@ const cushionColors = [
     name: "grey",
   },
   {
-    color: "#222222",
-    name: "black",
+    color: "#683434",
+    name: "brown",
   },
   {
     color: "#ececec",
